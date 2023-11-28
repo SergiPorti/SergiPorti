@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergi Portero, junior software developer</h1>
-<h3 align="center">Welcome👋. I describe myself as a reactive person who loves software development and is always looking for constant learning and improvement.</h3>
+<h3 align="center">I describe myself as a reactive person who loves software development and is always looking for constant learning and improvement.</h3>
 
 - 📖 I am currently still learning **Flutter** and I want to learn cybersecurity as well as how to draw also.
 
